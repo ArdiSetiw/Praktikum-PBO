@@ -21,6 +21,7 @@ public class DetailFilm {
         System.out.println("\n===================================");
     }
     
+    //Overloading
     public void showChanges(String dataSebelum,String type){
         if (type == "nama"){
             System.out.println("| Nama");
